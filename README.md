@@ -1,4 +1,4 @@
-# Community Solid Server
+# Community Solid Server test
 
 <img src="https://raw.githubusercontent.com/CommunitySolidServer/CommunitySolidServer/main/templates/images/solid.svg"
  alt="[Solid logo]" height="150" align="right"/>
